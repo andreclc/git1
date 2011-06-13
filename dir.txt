@@ -1,0 +1,7 @@
+total 16
+drwxr-xr-x   6 andre  staff  204 Jun 13 12:48 .
+drwxr-xr-x   3 andre  staff  102 Jun 12 08:25 ..
+drwxr-xr-x  14 andre  staff  476 Jun 13 12:47 .git
+-rw-r--r--   1 andre  staff   51 Jun 13 12:40 README
+-rw-r--r--   1 andre  staff    0 Jun 13 12:48 dir.txt
+-rw-r--r--   1 andre  staff   89 Jun 13 12:40 index.html
