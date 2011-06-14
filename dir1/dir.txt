@@ -1,0 +1,2 @@
+total 0
+-rw-r--r--  1 andre  staff  0 Jun 13 19:44 dir.txt
